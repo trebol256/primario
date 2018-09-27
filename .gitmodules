@@ -1,3 +1,4 @@
 [submodule "js"]
 	path = js
 	url = git@github.com:trebol256/secundario.git
+	branch = master
